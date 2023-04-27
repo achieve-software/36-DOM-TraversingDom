@@ -22,7 +22,7 @@ console.log(
 console.log(list.closest("section")); //? item-list
 console.log(list.closest("body").querySelector("#header h1"));
 
-//*2- Asagi Yonde traverse
+//*2-) Asagi Yonde traverse
 //*----------------------------------------------
 const addItem = document.querySelector(".add-item");
 
